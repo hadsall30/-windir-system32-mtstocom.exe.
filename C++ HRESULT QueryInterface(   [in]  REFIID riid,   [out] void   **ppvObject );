@@ -1,0 +1,15 @@
+
+C++
+
+
+
+
+
+
+
+HRESULT QueryInterface(
+  [in]  REFIID riid,
+  [out] void   **ppvObject
+);
+
+
